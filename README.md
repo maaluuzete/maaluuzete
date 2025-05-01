@@ -1,5 +1,7 @@
-## Hi there 👋
-
+  # Hey there! I'm Malu Azevedo! 👋
+I'm currently learning programming and participating in the **Jovem Talento Tech** program. I'm focusing on developing my skills in **C** and **C++**, and I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
+-💡  I'm interested about Computer Science, Math, Physics and Linguistics;  
+-🔭  I'm studying at ***Neps Academy***;
 <!--
 **maaluuzete/maaluuzete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
