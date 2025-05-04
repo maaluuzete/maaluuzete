@@ -1,7 +1,9 @@
   # Hey there! I'm Malu Azevedo! 👋
-I'm currently learning programming and participating in the **Jovem Talento Tech** program. I'm focusing on developing my skills in **C** and **C++**, and I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
+I'm currently learning programming and participating in the ***Jovem Talento Tech*** program. I'm focusing on developing my skills in **C** and **C++**, and I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
 -💡  I'm interested about Computer Science, Math, Physics and Linguistics;  
 -🔭  I'm studying at ***Neps Academy***;
+### Preferred Programming Languages 
+![image](https://camo.githubusercontent.com/83e2dd8a8826e04c5b1855503bc2efe79c95dbcd18b0e0884205b56f601c60e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f6c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/b05609a510410be3cebfdec29358255d4c57e86806595593ec6a2fa508f5a171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f6c6f676f3d43266c6f676f436f6c6f723d7768697465)
 <!--
 **maaluuzete/maaluuzete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
