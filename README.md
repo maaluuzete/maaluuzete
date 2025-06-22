@@ -1,10 +1,34 @@
-  # Hey there! I'm Malu Azevedo! 👋
-I'm currently learning programming and participating in the ***Jovem Talento Tech*** program. I'm focusing on developing my skills in **C** and **C++**, and I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
--💡  I'm interested about Computer Science, Math, Physics and Linguistics;  
--🔭  I'm studying at ***Neps Academy***;
+  # Hey! Nice to see you!👋
+  ![Header](./headermaluzete.png)
+
+  
+  I'm currently learning programming and participating in the ***Jovem Talento Tech*** program. I'm focusing on developing my skills in **C++**,**Python** and HTML/CSS. I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
+  
+* 💡  I'm interested about Computer Science, Math, Physics and Linguistics;  
+* 🔭  I'm studying at ***Neps Academy***;
+* 🗺️  I'm from *Mato Grosso do Sul*, Brazil;
+* ⚡  I'm studying electrical technician at the Federal Institute of Mato Grosso do Sul.
+
+
 ### Programming Languages and technologies
-![image](https://camo.githubusercontent.com/83e2dd8a8826e04c5b1855503bc2efe79c95dbcd18b0e0884205b56f601c60e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f6c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/b05609a510410be3cebfdec29358255d4c57e86806595593ec6a2fa508f5a171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f6c6f676f3d43266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/4a7e75596b998413964fcbf1e3707728ff4094c07c052d77062204d277a5a908/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/b4f4207129597080860cb20aea9a5a02ea0e07d6b954c0279f8e202192198232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f6c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)![image](https://camo.githubusercontent.com/29783a9e0408b39b80e4c294aa7131607d81019917603820c4f6903fcd9c409e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d626c75653f6c6f676f3d5653253230436f6465266c6f676f436f6c6f723d7768697465)
-<!--
+<div align="center">
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+</div>
+
+### Connect With Me
+<div align="center">
+<a href="https://instagram.com/maaluuzete" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/></a>
+<a href="https://github.com/maaluuzete" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+
+  
+  
+  
+  
+  
+  <!--
 **maaluuzete/maaluuzete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +41,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
+
