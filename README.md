@@ -4,7 +4,7 @@
   ![Header](./headermaluzete.png)
 
   
-  I'm currently learning programming and participating in the ***Jovem Talento Tech*** program. I'm focusing on developing my skills in **C++**, **Python** and **HTML/CSS**. I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
+  I'm currently learning programming and participating in the ***Behring Academy*** program. I'm focusing on developing my skills in **C++**, **Python** and **HTML/CSS**. I study **competitive programming** to prepare for the **Brazilian Olympiad in Informatics (OBI)**.  
 
   </div>
   
