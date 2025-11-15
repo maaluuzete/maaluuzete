@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](./headermaluzete(2).png)
+![Header](./headermaluzete (2).png)
 
 I'm currently learning programming and participating in the **Behring Academy** program. I'm focused on developing my skills in **C++**, **Python**, **C**, **HTML/CSS**, **JavaScript**, and **C#**.
 
